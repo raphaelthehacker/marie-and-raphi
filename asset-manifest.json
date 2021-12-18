@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.marie-und-raphi.ch/marie-and-raphi/static/css/main.1e7fe34b.css",
-    "main.js": "/www.marie-und-raphi.ch/marie-and-raphi/static/js/main.3848bf87.js",
-    "static/media/marieundraphi.jpg": "/www.marie-und-raphi.ch/marie-and-raphi/static/media/marieundraphi.e6cad99c734dd18294c6.jpg",
-    "static/media/shesaidyes.gif": "/www.marie-und-raphi.ch/marie-and-raphi/static/media/shesaidyes.5d160c71413a557ddeb1.gif",
-    "index.html": "/www.marie-und-raphi.ch/marie-and-raphi/index.html",
-    "main.1e7fe34b.css.map": "/www.marie-und-raphi.ch/marie-and-raphi/static/css/main.1e7fe34b.css.map",
-    "main.3848bf87.js.map": "/www.marie-und-raphi.ch/marie-and-raphi/static/js/main.3848bf87.js.map"
+    "main.css": "/static/css/main.1e7fe34b.css",
+    "main.js": "/static/js/main.571daf63.js",
+    "static/media/marieundraphi.jpg": "/static/media/marieundraphi.e6cad99c734dd18294c6.jpg",
+    "static/media/shesaidyes.gif": "/static/media/shesaidyes.5d160c71413a557ddeb1.gif",
+    "index.html": "/index.html",
+    "main.1e7fe34b.css.map": "/static/css/main.1e7fe34b.css.map",
+    "main.571daf63.js.map": "/static/js/main.571daf63.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7fe34b.css",
-    "static/js/main.3848bf87.js"
+    "static/js/main.571daf63.js"
   ]
 }
