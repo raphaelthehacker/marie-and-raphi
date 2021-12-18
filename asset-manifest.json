@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e7fe34b.css",
-    "main.js": "/static/js/main.571daf63.js",
-    "static/media/marieundraphi.jpg": "/static/media/marieundraphi.e6cad99c734dd18294c6.jpg",
-    "static/media/shesaidyes.gif": "/static/media/shesaidyes.5d160c71413a557ddeb1.gif",
-    "index.html": "/index.html",
-    "main.1e7fe34b.css.map": "/static/css/main.1e7fe34b.css.map",
-    "main.571daf63.js.map": "/static/js/main.571daf63.js.map"
+    "main.css": "/marie-and-raphi/static/css/main.1e7fe34b.css",
+    "main.js": "/marie-and-raphi/static/js/main.13d38e00.js",
+    "static/media/marieundraphi.jpg": "/marie-and-raphi/static/media/marieundraphi.e6cad99c734dd18294c6.jpg",
+    "static/media/shesaidyes.gif": "/marie-and-raphi/static/media/shesaidyes.5d160c71413a557ddeb1.gif",
+    "index.html": "/marie-and-raphi/index.html",
+    "main.1e7fe34b.css.map": "/marie-and-raphi/static/css/main.1e7fe34b.css.map",
+    "main.13d38e00.js.map": "/marie-and-raphi/static/js/main.13d38e00.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7fe34b.css",
-    "static/js/main.571daf63.js"
+    "static/js/main.13d38e00.js"
   ]
 }
