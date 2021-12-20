@@ -11,20 +11,25 @@ html {
 
 }
 
+
+.marie-and-raphi {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  max-width: 750px;
+}
+
 .she-said-yes {
   margin-top: 20px;
   height: 300px;
+  width: 300px;
   z-index: 5;
-
-
-
   animation-name: stretch;
   animation-duration: 1.0s;
   animation-timing-function: ease-out;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-play-state: running;
-  
 }
 
 @keyframes stretch {
@@ -36,11 +41,4 @@ html {
   100% {
       transform: scale(1.5);
   }
-}
-
-.marie-and-raphi {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  max-width: 750px;
 }
