@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e7fe34b.css",
-    "main.js": "/static/js/main.571daf63.js",
-    "static/media/marieundraphi.jpg": "/static/media/marieundraphi.e6cad99c734dd18294c6.jpg",
-    "static/media/shesaidyes.gif": "/static/media/shesaidyes.5d160c71413a557ddeb1.gif",
+    "main.css": "/static/css/main.8111a696.css",
+    "main.js": "/static/js/main.79cbe247.js",
+    "static/js/425.fd0a0cc8.chunk.js": "/static/js/425.fd0a0cc8.chunk.js",
+    "static/js/787.868b02df.chunk.js": "/static/js/787.868b02df.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/marieundraphi.jpg": "/static/media/marieundraphi.bc8efda62ffad393cffe.jpg",
+    "static/media/shesaidyes.gif": "/static/media/shesaidyes.bf714d5a49b4576128d5.gif",
     "index.html": "/index.html",
-    "main.1e7fe34b.css.map": "/static/css/main.1e7fe34b.css.map",
-    "main.571daf63.js.map": "/static/js/main.571daf63.js.map"
+    "main.8111a696.css.map": "/static/css/main.8111a696.css.map",
+    "main.79cbe247.js.map": "/static/js/main.79cbe247.js.map",
+    "425.fd0a0cc8.chunk.js.map": "/static/js/425.fd0a0cc8.chunk.js.map",
+    "787.868b02df.chunk.js.map": "/static/js/787.868b02df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e7fe34b.css",
-    "static/js/main.571daf63.js"
+    "static/css/main.8111a696.css",
+    "static/js/main.79cbe247.js"
   ]
 }
